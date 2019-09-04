@@ -1,0 +1,64 @@
+1476 x 1110
+ 738 x 555
+ 147 x 111
+ 294 x 222
+@charset "utf-8";
+
+/*----全体のレイアウト----*/
+*{
+ font-style: normal;
+ margin: 0px;
+ padding: 0px;
+}
+
+body 
+{
+ color: #000000;
+ background-color: #fff5ee;
+ font-family: sans-serif;
+ font-size: 75%;
+ line-height: 2;
+}
+hr
+{
+ display: none;
+}
+
+/* link styles
+------------------------------*/
+
+/*----中枠のレイアウト----*/
+#wrapper
+{
+ width: 928px;
+ background-color: #ffc0cb;
+ margin: 0px auto;
+ border-right: 11px solid #ffa500;
+ border-left: 11px solid #ffa500;
+}
+
+
+/*----先頭のスタイル----*/
+#header
+{
+ background-color: #ffffff;
+ height: 255px;
+ border-top: 4px solid #2f4f4f;
+ border-bottom: 4px solid #2f4f4f;
+ position: relative;
+}
+
+/*----main styles----*/
+
+
+/*----サイドメニューバーのスタイル----*/
+#sidebar
+{
+ width: 120;
+ position: left;
+ left: 0px;
+ top: 200px;
+ background-color: #
+}
+/* footer styles
+------------------------------*/
